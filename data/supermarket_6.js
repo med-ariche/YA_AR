@@ -1,0 +1,1 @@
+var json_supermarket_6 = {"type":"FeatureCollection","name":"supermarket_6","crs":{"type":"name","properties":{"name":"urn:ogc:def:crs:OGC:1.3:CRS84"}},"features":[{"type":"Feature","properties":{"OBJECTID":"163","osm_id":"4720708113","code":2501.0,"fclass":"supermarket","name":"Marjane"},"geometry":{"type":"Point","coordinates":[-6.59900130036965,34.25508170016036]}}]}
